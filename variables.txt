@@ -1,0 +1,10 @@
+food = "gumbo"
+is_delicious = true
+food = "sausage pizza"
+num2 = 5
+num7 = 11
+quotient = 11 / 5
+songs = ["Holy", "Love Somebody", "Intentions"]
+songs.shift
+puts "How many characters are in the food string?"
+food.length
