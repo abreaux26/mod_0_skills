@@ -3,7 +3,7 @@ is_delicious = true
 food = "sausage pizza"
 num2 = 5
 num7 = 11
-quotient = 11 / 5
+quotient = num7 / num2
 songs = ["Holy", "Love Somebody", "Intentions"]
 songs.shift
 puts "How many characters are in the food string?"
